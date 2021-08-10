@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.StateCensusAnalyzerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-10T11:22:28" hostname="DESKTOP-1A5CKOQ" time="0.036">
+<testsuite name="com.bridgelabz.StateCensusAnalyzerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-10T11:59:56" hostname="DESKTOP-1A5CKOQ" time="0.05">
   <properties/>
-  <testcase name="givenStatesCensusCSVFileReturnsCorrectRecords" classname="com.bridgelabz.StateCensusAnalyzerTest" time="0.036"/>
+  <testcase name="givenStateCodeCSVFileCorrectButHeadersIncorrectReturnsException" classname="com.bridgelabz.StateCensusAnalyzerTest" time="0.05"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
